@@ -18,7 +18,6 @@ public class MethodsDemo {
 
     public static void main(String[] args) {
         MethodsDemo demo = new MethodsDemo(); //  RESERVES MEMORY,
-        System.out.println(demo.oddOrEven(11)); // ASKS THE JAVA COMPILER TO PROCESS THIS INTO HEX
-                                              // CREATES AN INSTANCE
+        System.out.println(demo.oddOrEven(11)); // ASKS THE JAVA COMPILER TO PROCESS THIS INTO HEX// CREATES AN INSTANCE
     }
 }
