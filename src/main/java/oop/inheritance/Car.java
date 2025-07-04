@@ -1,4 +1,4 @@
-package oop;
+package oop.inheritance;
 
 //INHERITANCE
 public class Car extends Vehicle { // IS-A RELATIONSHIP
